@@ -393,9 +393,9 @@ ol {
   }
 
   #game-board button {
-    width: 4rem;
-    height: 4rem;
-    font-size: 2.8rem;
+    width: 4.5rem;
+    height: 4.5rem;
+    font-size: 3rem;
   }
 
   #game-over h2 {
